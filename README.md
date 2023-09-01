@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkat Matcha</h1>
-<h3 align="center">A passionate MS in CS 2023 graduate | Ex- Senior Software developer from India</h3>
+<h3 align="center">A passionate MS in CS, ODU, Norfolk,VA  2023 graduate | Ex- Senior Software developer @ freshworks inc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvsteja&label=Profile%20views&color=0e75b6&style=flat" alt="mvsteja" /> </p>
 
